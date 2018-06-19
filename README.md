@@ -1,4 +1,4 @@
-# RBIs 
+# [DRAFT] RBIs 
 Rchain Ballot Items (RBIs) are proposals for the RChain membership to vote on.
 
 Proposals should be clear, specific, and actionable.
